@@ -1,0 +1,8 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "building everything from scratch",
+  "main": "index.js",
+  "author": "Paulius Mikalauskas <p.mikalauskas@yahoo.com>",
+  "license": "MIT"
+}
